@@ -12,13 +12,20 @@ title: Top page
 こんな内容を載せて欲しい，という要望があればどうぞ．
 
 1. オンライン合唱について
-  1. [Zoom でオンライン合唱練習](zoom.html)
-  1. [NETDUETTO でオンライン合唱練習](netduetto.html) (これから試します)
-  1. [一人多重録音](overdub-alone.html)
-  1. [みんなで多重録音](overdub.html)
+
+    1. [Zoom でオンライン合唱練習](zoom.html)
+
+    1. [NETDUETTO でオンライン合唱練習](netduetto.html) (これから試します)
+
+    1. [一人多重録音](overdub-alone.html)
+
+    1. [みんなで多重録音](overdub.html)
+
 1. 合唱練習の再開に向けて
-  1. [クラスター化 (集団感染) について](cluster.html)
-  1. [合唱練習再開の条件について](offline-reharsal.html)
+
+    1. [クラスター化 (集団感染) について](cluster.html)
+
+    1. [合唱練習再開の条件について](offline-reharsal.html)
 
 ## リンク集
 
