@@ -1,5 +1,5 @@
 ---
-layout: default.md
+layout: default
 title: ひとりで多重録音
 ---
 

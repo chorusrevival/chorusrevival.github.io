@@ -1,5 +1,5 @@
 ---
-layout: default.md
+layout: default
 title: NETDUETTO でオンライン合唱練習
 ---
 

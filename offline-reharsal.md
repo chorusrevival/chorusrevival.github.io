@@ -1,5 +1,5 @@
 ---
-layout: default.md
+layout: default
 title: 合唱練習再開の条件について
 ---
 

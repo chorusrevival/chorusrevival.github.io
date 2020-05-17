@@ -1,5 +1,5 @@
 ---
-layout: default.md
+layout: default
 title: Zoom でオンライン合唱練習
 ---
 

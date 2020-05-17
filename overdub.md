@@ -1,5 +1,5 @@
 ---
-layout: default.md
+layout: default
 title: みんなで多重録音
 ---
 

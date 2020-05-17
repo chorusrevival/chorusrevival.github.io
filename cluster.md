@@ -1,5 +1,5 @@
 ---
-layout: default.md
+layout: default
 title: クラスター化 (集団感染) について
 ---
 
