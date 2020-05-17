@@ -1,3 +1,8 @@
+---
+layout: default
+title: Top page
+---
+
 # Top page
 
  オンライン合唱や合唱練習の再開の為の情報を掲載していきます．
