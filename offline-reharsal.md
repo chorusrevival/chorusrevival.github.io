@@ -36,3 +36,5 @@ title: 合唱練習再開の条件について
 
 - [Die ene Passion die wel doorging, met rampzalige gevolgen](https://www.trouw.nl/verdieping/die-ene-passion-die-wel-doorging-met-rampzalige-gevolgen~b4ced33e/) (Trouw)
   - [Tomoko Yokoyamaさんによる紹介](https://twitter.com/tomokoyokoyama/status/1262745621422718977) (twitter)
+
+- [NZCF guidelines for rehearsals under Alert Levels 1 & 2](https://www.nzcf.org.nz/nzcf-guidelines-for-rehearsals-under-alert-levels-1-2/) (ニュージーランド合唱連盟のガイドライン)
