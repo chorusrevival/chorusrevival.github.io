@@ -13,4 +13,6 @@ title: クラスター化 (集団感染) について
 
 - [CDCのスキャジット・バレーに関する記事に関する Tomoko Yokoyama さんによるまとめ](https://twitter.com/tomokoyokoyama/status/1260954136406712321) (twitterのスレッド)
 
+- [Coronavirus doctor's diary: The strange case of the choir that coughed in January](https://www.bbc.com/news/health-52589449) (BBC) 
+1月のイギリスで既に感染が起きていたかもしれないという記事。
 
