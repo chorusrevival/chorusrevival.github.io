@@ -38,3 +38,11 @@ title: 合唱練習再開の条件について
   - [Tomoko Yokoyamaさんによる紹介](https://twitter.com/tomokoyokoyama/status/1262745621422718977) (twitter)
 
 - [NZCF guidelines for rehearsals under Alert Levels 1 & 2](https://www.nzcf.org.nz/nzcf-guidelines-for-rehearsals-under-alert-levels-1-2/) (ニュージーランド合唱連盟のガイドライン)
+
+- [High SARS-CoV-2 Attack Rate Following Exposure at a Choir Practice — Skagit County, Washington, March 2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm) (CDC)
+  - [Tomoko Yokoyama さんによるまとめ](https://twitter.com/tomokoyokoyama/status/1260954136406712321) (twitter)
+
+- [The airborne lifetime of small speech droplets and their potential importance in SARS-CoV-2 transmission](https://www.pnas.org/content/early/2020/05/12/2006874117) (PNAS)
+  - [発話の飛沫、密閉空間に10分以上 コロナ感染に新知見 米研究](https://www.afpbb.com/articles/-/3283016) (AFPによる解説記事)
+  - [大声で喋ると新型コロナウイルスを含む飛まつが1分間に1000個以上も口から放出される](https://gigazine.net/news/20200515-speaking-spray-coronavirus-droplets/) (GIGIZINEによる解説記事。上のCDCのレポートにも言及)
+  - [K.M@餅つき行かな さんによる解説](https://twitter.com/Slight_Bright/status/1261546133676937216) (twitter)
