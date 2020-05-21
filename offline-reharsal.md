@@ -22,6 +22,8 @@ title: 合唱練習再開の条件について
 
 - 換気設備はどの程度のものが必要か？
 
+- エアロゾル感染はあるのか？
+
 ## リンク
 
 - [Gemeinsam Singen während der Corona-Pandemie: FAQ für Chöre – was geht, was geht nicht?](https://www.br-klassik.de/aktuell/news-kritik/corona-pandemie-chor-choere-regeln-saenger-singen-faq-ansteckung-aerosol-100.html)
@@ -52,3 +54,5 @@ title: 合唱練習再開の条件について
 - [Choruses and COVID-19 (Coronavirus)](https://www.chorusamerica.org/resource/top-resource/choruses-covid-19-coronavirus) (Chorus America による新型コロナウイルスに関する情報のまとめ)
 
 - [Study on the initial velocity distribution of exhaled air from coughing and speaking](https://www.sciencedirect.com/science/article/pii/S0045653512000987#!) (Chemosphereの2012年の論文。咳や発話での呼気の速度や角度を測定したもの)
+
+- [飛沫・エアロゾルの可視化とは](http://www.kk-co.jp/use/aerosol.php) (カトウ光研)
