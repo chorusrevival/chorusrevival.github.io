@@ -50,3 +50,5 @@ title: 合唱練習再開の条件について
 - [Rehearsal Guide: Choral Singing in the Time of COVID-19](https://www.chorusamerica.org/resource/tool/rehearsal-guide-choral-singing-time-covid-19) (San Francisco Gay Men's Chorus の Tim Seelig 氏によるガイド)
 
 - [Choruses and COVID-19 (Coronavirus)](https://www.chorusamerica.org/resource/top-resource/choruses-covid-19-coronavirus) (Chorus America による新型コロナウイルスに関する情報のまとめ)
+
+- [Study on the initial velocity distribution of exhaled air from coughing and speaking](https://www.sciencedirect.com/science/article/pii/S0045653512000987#!) (Chemosphereの2012年の論文。咳や発話での呼気の速度や角度を測定したもの)
