@@ -46,3 +46,7 @@ title: 合唱練習再開の条件について
   - [発話の飛沫、密閉空間に10分以上 コロナ感染に新知見 米研究](https://www.afpbb.com/articles/-/3283016) (AFPによる解説記事)
   - [大声で喋ると新型コロナウイルスを含む飛まつが1分間に1000個以上も口から放出される](https://gigazine.net/news/20200515-speaking-spray-coronavirus-droplets/) (GIGIZINEによる解説記事。上のCDCのレポートにも言及)
   - [K.M@餅つき行かな さんによる解説](https://twitter.com/Slight_Bright/status/1261546133676937216) (twitter)
+  
+- [Rehearsal Guide: Choral Singing in the Time of COVID-19](https://www.chorusamerica.org/resource/tool/rehearsal-guide-choral-singing-time-covid-19) (San Francisco Gay Men's Chorus の Tim Seelig 氏によるガイド)
+
+- [Choruses and COVID-19 (Coronavirus)](https://www.chorusamerica.org/resource/top-resource/choruses-covid-19-coronavirus) (Chorus America による新型コロナウイルスに関する情報のまとめ)
