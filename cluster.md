@@ -14,5 +14,9 @@ title: クラスター化 (集団感染) について
 - [CDCのスキャジット・バレーに関する記事に関する Tomoko Yokoyama さんによるまとめ](https://twitter.com/tomokoyokoyama/status/1260954136406712321) (twitterのスレッド)
 
 - [Coronavirus doctor's diary: The strange case of the choir that coughed in January](https://www.bbc.com/news/health-52589449) (BBC) 
-1月のイギリスで既に感染が起きていたかもしれないという記事。
+  - 1月のイギリスで既に感染が起きていたかもしれないという記事。
+
+- [Did singing together spread coronavirus to four choirs?](https://www.theguardian.com/world/2020/may/17/did-singing-together-spread-coronavirus-to-four-choirs) (The Guardian) 
+  - フルートは危険だが歌はずっと安全、リハーサルや公演の間ではなく、その前後に社会的距離を撮っていなかったのが真の原因ではないかとの意見を紹介.
+	- 個人的な感想：他の記事では既に気をつけていて、そんなに交流はしていなかったとの言説もあったはずだが…？そもそも流体力学の専門家というのは素人ではないのだろうか。
 
