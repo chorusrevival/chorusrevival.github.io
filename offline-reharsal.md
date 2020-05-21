@@ -34,7 +34,7 @@ title: 合唱練習再開の条件について
 
 - [Philharmoniker zeigen geringe Infektionsgefahr auf](https://wien.orf.at/stories/3049099/) (ウィーンフィルによる実験、ORF.atの記事)
   - [Hyoro＠ウィーンさんによる紹介](https://twitter.com/hyoroWien/status/1262122323659939841) (twitter)
-  - 写真はこちら [https://www.instagram.com/p/CAR586-Hg5K/?igshid=1v5y8t4s1cunh](Instagram)
+  - 写真は[こちら](https://www.instagram.com/p/CAR586-Hg5K/?igshid=1v5y8t4s1cunh) (Instagram)
 
 - [Die ene Passion die wel doorging, met rampzalige gevolgen](https://www.trouw.nl/verdieping/die-ene-passion-die-wel-doorging-met-rampzalige-gevolgen~b4ced33e/) (Trouw)
   - [Tomoko Yokoyamaさんによる紹介](https://twitter.com/tomokoyokoyama/status/1262745621422718977) (twitter)
