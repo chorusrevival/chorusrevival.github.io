@@ -60,7 +60,7 @@ title: 合唱練習再開の条件について
 - [飛沫・エアロゾルの可視化とは](http://www.kk-co.jp/use/aerosol.php) (カトウ光研)
 
 - [合唱は安全か？アメリカの感染症専門家の意見](https://mcsya.org/singing-together-safe-or-not/) (山根悟郎氏のブログ)
-  - ワクチンか特効薬ができるまで合唱は無理なのではないかというアメリカでの話題。
+  - ワクチンと特効薬ができるまで合唱は無理なのではないかというアメリカでの話題。
   - [クラスター化 (集団感染) について](cluster.html) で紹介した流体力学の専門家のケーラー氏の「研究はまったくの間違い」との話も。
 
 - [NATS Panel of Experts Lays Out Sobering Future for Singers: "No Vaccine, No Safe Public Singing"](https://www.middleclassartist.com/post/nats-panel-of-experts-lays-out-sobering-future-for-singers-no-vaccine-no-safe-public-singing) 
