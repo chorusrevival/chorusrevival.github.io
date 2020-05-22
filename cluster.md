@@ -19,4 +19,4 @@ title: クラスター化 (集団感染) について
 - [Did singing together spread coronavirus to four choirs?](https://www.theguardian.com/world/2020/may/17/did-singing-together-spread-coronavirus-to-four-choirs) (The Guardian) 
   - フルートは危険だが歌はずっと安全、リハーサルや公演の間ではなく、その前後に社会的距離を撮っていなかったのが真の原因ではないかとの意見を紹介.
 	- 個人的な感想：他の記事では既に気をつけていて、そんなに交流はしていなかったとの言説もあったはずだが…？そもそも流体力学の専門家というのは素人ではないのだろうか。
-
+	- [合唱練習再開の条件について](offline-reharsal.html) からリンクしている [合唱は安全か？アメリカの感染症専門家の意見](https://mcsya.org/singing-together-safe-or-not/) (山根悟郎氏のブログ) では「まったくの間違い」とのコメントを紹介している。

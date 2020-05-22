@@ -56,3 +56,6 @@ title: 合唱練習再開の条件について
 - [Study on the initial velocity distribution of exhaled air from coughing and speaking](https://www.sciencedirect.com/science/article/pii/S0045653512000987#!) (Chemosphereの2012年の論文。咳や発話での呼気の速度や角度を測定したもの)
 
 - [飛沫・エアロゾルの可視化とは](http://www.kk-co.jp/use/aerosol.php) (カトウ光研)
+
+- [合唱は安全か？アメリカの感染症専門家の意見](https://mcsya.org/singing-together-safe-or-not/) (山根悟郎氏のブログ。ワクチンか特効薬ができるまで合唱は無理なのではないかというアメリカでの話題)
+  - [クラスター化 (集団感染) について](cluster.html) で紹介した流体力学の専門家のケーラー氏の「研究はまったくの間違い」との話も。
