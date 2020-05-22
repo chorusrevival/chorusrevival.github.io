@@ -26,6 +26,8 @@ title: 合唱練習再開の条件について
 
 ## リンク
 
+見つけたものをどんどん紹介していきます。
+
 - [Gemeinsam Singen während der Corona-Pandemie: FAQ für Chöre – was geht, was geht nicht?](https://www.br-klassik.de/aktuell/news-kritik/corona-pandemie-chor-choere-regeln-saenger-singen-faq-ansteckung-aerosol-100.html)
   - 日本語訳：[コロナパンデミックの間の歌唱について、合唱団のためのよくある質問 - 何が良くて、何が良くないのか？](https://www.facebook.com/permalink.php?story_fbid=2960326254045724&id=100002051359009) (本山 秀毅氏のFacebookページ)
 
@@ -57,5 +59,9 @@ title: 合唱練習再開の条件について
 
 - [飛沫・エアロゾルの可視化とは](http://www.kk-co.jp/use/aerosol.php) (カトウ光研)
 
-- [合唱は安全か？アメリカの感染症専門家の意見](https://mcsya.org/singing-together-safe-or-not/) (山根悟郎氏のブログ。ワクチンか特効薬ができるまで合唱は無理なのではないかというアメリカでの話題)
+- [合唱は安全か？アメリカの感染症専門家の意見](https://mcsya.org/singing-together-safe-or-not/) (山根悟郎氏のブログ)
+  - ワクチンか特効薬ができるまで合唱は無理なのではないかというアメリカでの話題。
   - [クラスター化 (集団感染) について](cluster.html) で紹介した流体力学の専門家のケーラー氏の「研究はまったくの間違い」との話も。
+
+- [NATS Panel of Experts Lays Out Sobering Future for Singers: "No Vaccine, No Safe Public Singing"](https://www.middleclassartist.com/post/nats-panel-of-experts-lays-out-sobering-future-for-singers-no-vaccine-no-safe-public-singing) 
+  - 上の山根氏のブログの元となっている記事 (の1つ)。アメリカで行われたオンラインディスカッションの解説。コメント欄でも議論がされている模様 (管理人はまだ読んでませんが…)。
