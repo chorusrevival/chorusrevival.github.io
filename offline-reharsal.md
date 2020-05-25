@@ -17,7 +17,8 @@ title: 合唱練習再開の条件について
 
 - フェイスガードはどうか？  
 試していないのでわかりません。愛知県の大村知事によると「息苦しい」らしいですが…？([朝日新聞の記事](https://www.asahi.com/articles/ASN5F6W3KN5FOIPE021.html)
-
+	- 指揮者がつけるべきかも？
+	
 - 一人あたりどれぐらいの距離・面積が必要か？
 
 - 換気設備はどの程度のものが必要か？
@@ -65,3 +66,16 @@ title: 合唱練習再開の条件について
 
 - [NATS Panel of Experts Lays Out Sobering Future for Singers: "No Vaccine, No Safe Public Singing"](https://www.middleclassartist.com/post/nats-panel-of-experts-lays-out-sobering-future-for-singers-no-vaccine-no-safe-public-singing) 
   - 上の山根氏のブログの元となっている記事 (の1つ)。アメリカで行われたオンラインディスカッションの解説。コメント欄でも議論がされている模様 (管理人はまだ読んでませんが…)。
+
+- [CFD-ACE+ を用いたエアロゾル粒子の軌跡シミュレーション (Simulation of aerosol particles trajetories using CFD-ACE+ )](https://athenasys.co.jp/main/product/cfd-ace/spray/spray_on_virus_diffusion.html)
+
+- [新型コロナウイルスの感染対策に有用な室内環境に関連する研究事例の紹介（第一版）](http://www.siej.org/sub/sarscov2v1.html) (室内環境学会)
+
+- [Neue Studie mit BR-Chor untersucht Übertragungswege](https://www.br-klassik.de/aktuell/news-kritik/corona-pandemie-studie-chor-br-ansteckung-uebertragung-singen-saenger-100.html) (BR-KLASSIK) 
+  - ドイツのバイエルン放送合唱団と研究者で調査をしているという話。
+
+- [瓢箪から駒が出た話](http://www.21ccs.jp/china_watching/DirectorsWatching_YABUKI/Directors_watching_31.html) (矢吹　晋氏) 
+  - 日本語の p, t, k の発音が英語や中国語と違うので、飛沫感染が起こりにくいのではないかという論文がランセットに載ったという話。
+  - 論文はこちら：[SARS transmission: language and droplet production](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(03)13874-3/fulltext)
+- 【コラム】新型ウイルス感染症対策と空気の流れについて (新潟工科大学 風・流体工学研究センター)
+  - [(1)](https://www.niit.ac.jp/windcenter/%E3%80%90%E3%82%B3%E3%83%A9%E3%83%A0%E3%80%91%E6%96%B0%E5%9E%8B%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E5%AF%BE%E7%AD%96%E3%81%A8%E7%A9%BA%E6%B0%97%E3%81%AE%E6%B5%81%E3%82%8C/) [(2)](https://www.niit.ac.jp/windcenter/%e3%80%90%e3%82%b3%e3%83%a9%e3%83%a0%e3%80%91%e6%96%b0%e5%9e%8b%e3%82%a6%e3%82%a4%e3%83%ab%e3%82%b9%e6%84%9f%e6%9f%93%e7%97%87%e5%af%be%e7%ad%96%e3%81%a8%e7%a9%ba%e6%b0%97%e3%81%ae%e6%b5%81%e3%82%8c-2/) [(3)](https://www.niit.ac.jp/windcenter/%e3%80%90%e3%82%b3%e3%83%a9%e3%83%a0%e3%80%91%e6%96%b0%e5%9e%8b%e3%82%a6%e3%82%a4%e3%83%ab%e3%82%b9%e6%84%9f%e6%9f%93%e7%97%87%e5%af%be%e7%ad%96%e3%81%a8%e7%a9%ba%e6%b0%97%e3%81%ae%e6%b5%81%e3%82%8c-3/) [(4)](https://www.niit.ac.jp/windcenter/%e3%80%90%e3%82%b3%e3%83%a9%e3%83%a0%e3%80%91%e6%96%b0%e5%9e%8b%e3%82%a6%e3%82%a4%e3%83%ab%e3%82%b9%e6%84%9f%e6%9f%93%e7%97%87%e5%af%be%e7%ad%96%e3%81%a8%e7%a9%ba%e6%b0%97%e3%81%ae%e6%b5%81%e3%82%8c-4/) [(5)](https://www.niit.ac.jp/windcenter/%e3%80%90%e3%82%b3%e3%83%a9%e3%83%a0%e3%80%91%e6%96%b0%e5%9e%8b%e3%82%a6%e3%82%a4%e3%83%ab%e3%82%b9%e6%84%9f%e6%9f%93%e7%97%87%e5%af%be%e7%ad%96%e3%81%a8%e7%a9%ba%e6%b0%97%e3%81%ae%e6%b5%81%e3%82%8c-5/)
