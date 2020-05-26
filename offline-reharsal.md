@@ -27,7 +27,7 @@ title: 合唱練習再開の条件について
 
 ## リンク
 
-見つけたものをどんどん紹介していきます。
+見つけたものをどんどん紹介していきます。整理できていなくてすみません。
 
 - [Gemeinsam Singen während der Corona-Pandemie: FAQ für Chöre – was geht, was geht nicht?](https://www.br-klassik.de/aktuell/news-kritik/corona-pandemie-chor-choere-regeln-saenger-singen-faq-ansteckung-aerosol-100.html) (5/7)
   - 日本語訳：[コロナパンデミックの間の歌唱について、合唱団のためのよくある質問 - 何が良くて、何が良くないのか？](https://www.facebook.com/permalink.php?story_fbid=2960326254045724&id=100002051359009) (本山 秀毅氏のFacebook。5/9) 
@@ -89,3 +89,15 @@ title: 合唱練習再開の条件について
 
 - [Zwei neue Studien lassen Bläser aufatmen](https://www.br-klassik.de/aktuell/news-kritik/corona-infektion-gefahr-musiker-blaeser-studie-charite-bundeswehr-100.html) (BR-KLASSIK. 5/11) 
   - 上のケーラー氏の研究と、シャリテーの研究を紹介する記事のようです。
+
+- [Did singing together spread coronavirus to four choirs?](https://www.theguardian.com/world/2020/may/17/did-singing-together-spread-coronavirus-to-four-choirs) (The Guardian. 5/17) 
+	- フルートは危険だが歌はずっと安全、リハーサルや公演の間ではなく、その前後に社会的距離を撮っていなかったのが真の原因ではないかとの意見を紹介.
+	- 個人的な感想：他の記事では既に気をつけていて、そんなに交流はしていなかったとの言説もあったはずだが…？そもそも流体力学の専門家というのは素人ではないのだろうか。
+	- [合唱練習再開の条件について](offline-reharsal.html) からリンクしている [合唱は安全か？アメリカの感染症専門家の意見](https://mcsya.org/singing-together-safe-or-not/) (山根悟郎氏のブログ) では「まったくの間違い」とのコメントを紹介している。
+	- ([クラスター化 (集団感染) について](cluster.html) から移動しました。)
+
+- [商業施設等における「換気の悪い密閉空間」を改善するための換気について](https://www.mhlw.go.jp/content/10900000/000616069.pdf) (厚生労働省。PDF注意。3/30)
+
+- [新型コロナウイルスに関連した感染症対策に関する対応について:業種別ガイドライン](https://www.mext.go.jp/a_menu/coronavirus/mext_00028.html)
+  - 業種や施設の種別毎に作成されたガイドラインへのリンク集。
+  - 関係するのは「公民館」「劇場、音楽堂等」か。
