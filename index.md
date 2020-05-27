@@ -19,7 +19,7 @@ title: 合唱復興 (オンライン合唱・合唱練習の再開のための�
 
     1. [Zoom でオンライン合唱練習](zoom.html)
 
-    1. [NETDUETTO でオンライン合唱練習](netduetto.html) (これから試します)
+    1. [NETDUETTO でオンライン合唱練習](netduetto.html) (5/27 ざっと書いてみました！)
 
     1. [一人多重録音](overdub-alone.html)
 
