@@ -30,7 +30,7 @@ title: 合唱復興 (オンライン合唱・合唱練習の再開のための�
 
     1. [クラスター化 (集団感染) について](cluster.html)
 
-    1. [合唱練習再開の条件について](offline-reharsal.html)
+    1. [合唱練習再開の条件について](offline-reharsal.html) (最終更新：5/27)
 
 ## リンク集
 

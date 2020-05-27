@@ -101,3 +101,8 @@ title: 合唱練習再開の条件について
 - [新型コロナウイルスに関連した感染症対策に関する対応について:業種別ガイドライン](https://www.mext.go.jp/a_menu/coronavirus/mext_00028.html)
   - 業種や施設の種別毎に作成されたガイドラインへのリンク集。
   - 関係するのは「公民館」「劇場、音楽堂等」か。
+
+- [Corona-Lockerungen in Bayern: Konzerte und Theater ab Mitte Juni möglich](https://www.br-klassik.de/aktuell/news-kritik/corona-konzerte-ab-mitte-juni-wieder-moeglich-in-bayern-100.html) (BR-KLASSIK. 5/26)
+  - [矢崎裕一氏のツイート](https://twitter.com/luigiyazaki/status/1265437232564965377) より。
+  - バイエルン州が6/15から公演再開するとの記事。矢崎氏のツイートによれば、それに先立ってバーデン＝ヴュルテンベルク州は6/1から再開する模様。
+  - (バイエルン州では) 屋内では50人まで、外では100人までで、詳細はまだ明らかにされていないとのこと。
