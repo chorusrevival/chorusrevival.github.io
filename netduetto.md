@@ -13,7 +13,6 @@ Zoom と同じく、[混声合唱団CADENZA](http://web.kyoto-inet.or.jp/people/
 
 <!-- TOC -->
 
-- [NETDUETTO でオンライン合唱練習](#netduetto-でオンライン合唱練習)
 - [はじめに](#はじめに)
 - [準備](#準備)
 - [やってみよう！](#やってみよう)
