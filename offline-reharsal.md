@@ -119,7 +119,7 @@ title: 合唱練習再開の条件について
 - [Estimation of airborne viral emission: quanta emission rate of SARS-CoV-2 for infection risk assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7211635/) (Environment International の論文. 5/11)
   - [Endo, Takaho さんの紹介ツイート](https://twitter.com/caripso/status/1265827013694124033) (twitter. 5/28)
 
-- [学校でフェイスシールド、必要か、過剰か？ 感染症対策のプロに聞いてみた](https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-school-facesheeld?utm_source=dynamic&utm_campaign=bfsharetwitter) (BuzzFeed. 5/28)
+- [学校でフェイスシールド、必要か、過剰か？ 感染症対策のプロに聞いてみた](https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-school-facesheeld?utm_source=dynamic&utm_campaign=bfsharetwitter) (BuzzFeed 岩永直子氏の記事. 5/28)
 
 - [Universal Masking in Hospitals in the Covid-19 Era](https://www.nejm.org/doi/full/10.1056/NEJMp2006372) (The New England Journal of Medicine. 4/1)
   - ユニバーサルマスキングとは、上のBuzzFeedの記事によると、「他人と近距離で会話するときにはマスクを着けましょう」という考え方とのこと。
