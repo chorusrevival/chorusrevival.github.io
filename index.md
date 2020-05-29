@@ -42,4 +42,4 @@ title: 合唱復興 (オンライン合唱・合唱練習の再開のための�
 
 ## 連絡先
 
-管理人：<a href="https://www.math.kyoto-u.ac.jp/~inou/">稲生 啓行</a>
+管理人：[稲生 啓行](https://www.math.kyoto-u.ac.jp/~inou/) twitter: [@chorusrevival](https://twitter.com/chorusrevival)
