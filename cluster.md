@@ -26,3 +26,7 @@ title: クラスター化 (集団感染) について
   - フランクフルトの教会礼拝での100人以上のクラスター感染について。
   - 1.5mの距離は保っていたが、マスクを着用せずに歌っていたとのこと。
   - 当時ヘッセン州ではマスク着用・歌唱禁止などは課されていなかった。
+
+- [Parallelen zwischen Massen-Ausbrüchen](https://www.faz.net/aktuell/politik/inland/corona-ausbruch-parallelen-zwischen-frankfurt-und-bremerhaven-16791843.html) (Frankfurter Allgemeine. 5/29)
+  - [矢崎裕一氏による紹介ツイート](https://twitter.com/luigiyazaki/status/1266376509310156802) (twitter. 5/29)
+  - ブレーマーハーフェンの教会で44人が集団感染。
