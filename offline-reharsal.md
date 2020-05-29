@@ -126,3 +126,7 @@ title: 合唱練習再開の条件について
 
 - [Visualizing Speech-Generated Oral Fluid Droplets with Laser Light Scattering](https://www.nejm.org/doi/full/10.1056/NEJMc2007800) (The New England Journal of Medicine. 4/15)
   - "Stay healthy"と話したときの飛沫を可視化した動画がある。マスクをしていると飛沫がほとんど飛ばない。
+
+- [Parallelen zwischen Massen-Ausbrüchen](https://www.faz.net/aktuell/politik/inland/corona-ausbruch-parallelen-zwischen-frankfurt-und-bremerhaven-16791843.html) (Frankfurter Allgemeine. 5/29)
+  - [矢崎裕一氏による紹介ツイート](https://twitter.com/luigiyazaki/status/1266376509310156802) (twitter. 5/29)
+  - ブレーマーハーフェンの教会で44人が集団感染。
