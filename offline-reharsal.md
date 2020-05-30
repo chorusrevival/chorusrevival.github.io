@@ -127,3 +127,19 @@ title: 合唱練習再開の条件について
 - [Visualizing Speech-Generated Oral Fluid Droplets with Laser Light Scattering](https://www.nejm.org/doi/full/10.1056/NEJMc2007800) (The New England Journal of Medicine. 4/15)
   - "Stay healthy"と話したときの飛沫を可視化した動画がある。マスクをしていると飛沫がほとんど飛ばない。
 
+- [German choirs silenced as singing branded virus risk](https://www.afp.com/en/news/717/german-choirs-silenced-singing-branded-virus-risk-doc-1sa9nq1) (AFP. 5/27)
+  - 『歌うこと--特に合唱--はパンデミックの中で、あなたができる最も危険なこととして急に評価されてきている』とのこと。
+  - 『30秒「あー」というと、30秒咳をするのの2倍の粒子が生成される』という研究もあるとのこと。
+  - ロバート・コッホ研究所（RKI）の疾病管理センターは『歌うと飛沫が特に遠くまで飛ぶ』と警告。
+  - 集団感染が起きたベルリン大聖堂合唱団の合唱団長による、『歌うときには呼吸が深くなるので、空気中にウイルスの粒子が浮かんでいると、比較的速く肺に到達することができる』というコメントも。
+  
+- [「アー」と30秒言い続ける。30秒咳をし続ける。どちらが粒子をたくさん発するか？](https://mcsya.org/choir-high-risk-afp/) (MCS Young Artistsのブログ。5/30)
+  - 上のAFPの記事の解説や検証など。
+  
+- [Aerosol emission and superemission during human speech increase with voice loudness](https://www.nature.com/articles/s41598-019-38808-z) (Scientific Reports. 2019年2月)
+  - 「アー」と30秒言い続けるのと30秒咳をするのとの比較はこのイントロで紹介されている (つまり、先行結果の紹介であって原論文ではない)。
+  - 原論文を少し見てみましたが、「アー」と言い続ける方が多く放出するという結果のようです。[このスレッド](https://twitter.com/chorusrevival/status/1266676918125879296)に少し書きました。
+  - [Dr Kevin Purcell氏による解説ツイート](https://twitter.com/kevinpurcell/status/1245436607773073408) (twitter. 4/2).
+	- 上のMCS Young Artistsのブログでこのツイートが紹介されている。
+  - 他の人よりも一桁多い粒子を放出する「スピーチ・スーパーエミッター」がいる、ということが書かれています。
+  - 言語 (英語、スペイン語、中国語、アラビア語) による差異は認められなかったようです。日本語ではどうなんでしょうか？
