@@ -151,4 +151,11 @@ title: 合唱練習再開の条件について
 - [Risikoeinschätzung einer Coronavirus-Infektion im Bereich Musik – zweites Update vom 19. Mai 2020](https://www.mh-freiburg.de/hochschule/covid-19-corona/risikoeinschaetzung) (Hochschule für Musik Freiburg. 5/19)
   - 音楽分野におけるコロナウイルス感染症のリスク評価。
   - 初版は英語版があったようで[Wind Instruments May Not Be As Contagious As We Thought](https://medium.com/@SixtoFMontesinos/wind-instruments-may-not-be-as-contagious-as-we-thought-b821e590b29a)等で紹介されているが、第2版はドイツ語しかなさそう(見つけたら教えてください)。
-  - 既にわかっていること、わからないこと、色々な楽器や演奏形態で何をどう気をつけたらよいかなど、とてもよくまとまっており、参考文献も充実しています。
+  - DeepLによる翻訳でざっと読んでみましたが、既にわかっていること、わからないこと、色々な楽器や演奏形態で何をどう気をつけたらよいかなど、とてもよくまとまっており、参考文献も充実しています。
+	- 2m離れれば飛沫感染は大丈夫だろう。
+	- 歌唱によるエアロゾルは評価が難しい。
+	- 歌唱中の深い吸入の影響は不明。
+	- 15分に1回の換気か空調設備のある部屋を利用することはリスク軽減に重要。
+	- マスクをつける。
+	- などなど。
+	
