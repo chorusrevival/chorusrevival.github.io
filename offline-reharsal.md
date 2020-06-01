@@ -147,3 +147,8 @@ title: 合唱練習再開の条件について
 - [学校園における新型コロナウイルス感染症対策マニュアル（第3版）](http://swa.city-osaka.ed.jp/weblog/files/e751723/doc/160971/2964800.pdf) (大阪市. 5/29)
   - 部活動について、『吹奏楽や合唱等においては、原則として少人数のパート別練習とすること』との記述あり (p.39)。
   - 授業でも、『近距離で行う合唱』についても『感染症対策を講じてもなお感染のリスクが高い学習活動例』に挙げられており，『臨時休業期間の登校日には〜行わないようにすること』，学校園再開後も，『特にリスクが高いことから、実施について慎重に検討すること』等の記述があります (p.27)。
+
+- [Risikoeinschätzung einer Coronavirus-Infektion im Bereich Musik – zweites Update vom 19. Mai 2020](https://www.mh-freiburg.de/hochschule/covid-19-corona/risikoeinschaetzung) (Hochschule für Musik Freiburg. 5/19)
+  - 音楽分野におけるコロナウイルス感染症のリスク評価。
+  - 初版は英語版があったようで[Wind Instruments May Not Be As Contagious As We Thought](https://medium.com/@SixtoFMontesinos/wind-instruments-may-not-be-as-contagious-as-we-thought-b821e590b29a)等で紹介されているが、第2版はドイツ語しかなさそう(見つけたら教えてください)。
+  - 既にわかっていること、わからないこと、色々な楽器や演奏形態で何をどう気をつけたらよいかなど、とてもよくまとまっており、参考文献も充実しています。
