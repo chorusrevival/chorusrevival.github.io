@@ -159,3 +159,9 @@ title: 合唱練習再開の条件について
 	- マスクをつける。
 	- などなど。
 	
+- [Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext) (Lancet. 6/1) 
+  - [Lancet自身による解説ツイート](https://twitter.com/TheLancet/status/1267585465424719873)
+  - [たぶんこの論文についてと思われる記事](https://this.kiji.is/640484073470870625?c=39550187727945729) (共同通信。6/2)
+  - [手を洗う救急医Takaさんの解説ツイート](https://twitter.com/mph_for_doctors/status/1268042400951422978)
+  - [坂本史衣さんの解説ツイート](https://twitter.com/SakamotoFumie/status/1268176018163986432)
+  - メタアナリシスによって、距離とマスクやゴーグルによって感染リスクが下がると結論づけています。
