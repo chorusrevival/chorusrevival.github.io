@@ -44,4 +44,4 @@ title: 合唱復興ポータル (オンライン合唱・合唱練習の再開�
 
 ## 連絡先
 
-管理人：[稲生 啓行](https://www.math.kyoto-u.ac.jp/~inou/) twitter: [@chorusrevival](https://twitter.com/chorusrevival)
+管理人：[稲生 啓行](https://www.math.kyoto-u.ac.jp/~inou/) twitter: [@chorusrevival](https://twitter.com/chorusrevival) ([混声合唱団CADENZA](http://web.kyoto-inet.or.jp/people/tomo0726/cadenza/)指揮者、[アンサンブルアカデミー京都](http://academy-kyoto.music.coocan.jp/)ベースパートリーダー)
