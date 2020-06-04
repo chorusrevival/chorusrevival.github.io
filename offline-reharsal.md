@@ -165,3 +165,7 @@ title: 合唱練習再開の条件について
   - [手を洗う救急医Takaさんの解説ツイート](https://twitter.com/mph_for_doctors/status/1268042400951422978)
   - [坂本史衣さんの解説ツイート](https://twitter.com/SakamotoFumie/status/1268176018163986432)
   - メタアナリシスによって、距離とマスクやゴーグルによって感染リスクが下がると結論づけています。
+
+- [Wie sich Viren beim Singen verbreiten](https://futurezone.at/science/wie-sich-viren-beim-singen-verbreiten/400929119) (futurezone.at. 6/3)
+  - [本山秀毅氏による日本語訳](https://www.facebook.com/permalink.php?story_fbid=3020661188012230&id=100002051359009)
+  - 鼻から入れた雲がどこまで広がるか実験したところ，最大でも1.5mだったとのこと．
