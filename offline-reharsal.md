@@ -174,3 +174,9 @@ title: 合唱練習再開の条件について
 - [Wie sich Viren beim Singen verbreiten](https://futurezone.at/science/wie-sich-viren-beim-singen-verbreiten/400929119) (futurezone.at. 6/3)
   - [本山秀毅氏による日本語訳](https://www.facebook.com/permalink.php?story_fbid=3020661188012230&id=100002051359009)
   - 鼻から入れた雲がどこまで広がるか実験したところ，最大でも1.5mだったとのこと．
+
+- [Covid-19 information for choral organisations, choirs and conductors](https://docs.google.com/document/u/0/d/1QHhJbirrbPWQ6CFxbj-uy_3QwjNvXlPptchFvVoLlHg/mobilebasic) (European Choral Association - Europa Cantat. spring 2020)
+  - [本山秀毅氏による日本語訳](https://www.facebook.com/permalink.php?story_fbid=3024514567626892&id=100002051359009)
+  - 安全性やオンライン練習、その他色々な情報のまとめ。
+  - 「単なる情報収集であって、意見表明したり何かを推奨したりしているわけではない」というような注意書きがちゃんと載っています。
+  - オンライン練習用のツールが沢山載っているのが気になります。試した方、情報をお持ちの方がいたら是非教えてください。
