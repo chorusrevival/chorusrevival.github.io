@@ -42,6 +42,12 @@ title: 合唱復興ポータル (オンライン合唱・合唱練習の再開�
 - [DeepL翻訳](https://www.deepl.com/translator) 海外の記事・論文を読むときに便利です。
 - [VirMus](https://virmus.nl) オランダの音楽家向けの科学に基いた新型コロナウイルスに関する情報提供サイト。参考文献が充実している。
 
+- [Covid-19 information for choral organisations, choirs and conductors](https://docs.google.com/document/u/0/d/1QHhJbirrbPWQ6CFxbj-uy_3QwjNvXlPptchFvVoLlHg/mobilebasic) (European Choral Association - Europa Cantat. spring 2020)
+  - [本山秀毅氏による日本語訳](https://www.facebook.com/permalink.php?story_fbid=3024514567626892&id=100002051359009)
+  - 安全性やオンライン練習、その他色々な情報のまとめ。
+  - 「単なる情報収集であって、意見表明したり何かを推奨したりしているわけではない」というような注意書きがちゃんと載っています。
+  - オンライン練習用のツールが沢山載っているのが気になります。試した方、情報をお持ちの方がいたら是非教えてください。
+
 ## 連絡先
 
 管理人：[稲生 啓行](https://www.math.kyoto-u.ac.jp/~inou/) twitter: [@chorusrevival](https://twitter.com/chorusrevival) ([混声合唱団CADENZA](http://web.kyoto-inet.or.jp/people/tomo0726/cadenza/)指揮者、[アンサンブルアカデミー京都](http://academy-kyoto.music.coocan.jp/)ベースパートリーダー)
