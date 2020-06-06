@@ -182,3 +182,4 @@ title: 合唱練習再開の条件について
 
 - [The Turning Point For Choirs in Latvia](https://www.facebook.com/1623101534457685/posts/2579730788794750/) (Dziesmu svētku biedrība の facebook. 6/1) 
   - ラトビアの合唱再開についてのガイドライン。25人以下、3mの距離、一人あたり9㎡などの内容。
+  - このようなガイドラインには、根拠となる論文や監修した専門家などの情報を記載すべきだと思うが、その辺りは不明。
