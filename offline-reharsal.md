@@ -174,3 +174,8 @@ title: 合唱練習再開の条件について
 - [Wie sich Viren beim Singen verbreiten](https://futurezone.at/science/wie-sich-viren-beim-singen-verbreiten/400929119) (futurezone.at. 6/3)
   - [本山秀毅氏による日本語訳](https://www.facebook.com/permalink.php?story_fbid=3020661188012230&id=100002051359009)
   - 鼻から入れた雲がどこまで広がるか実験したところ，最大でも1.5mだったとのこと．
+
+- [Scientists to choirs: Group singing can spread the coronavirus, despite what CDC may say](https://www.latimes.com/world-nation/story/2020-06-01/coronavirus-choir-singing-cdc-warning) (Los Angels Times. 6/1)
+  - [「科学者から合唱団へ：CDCが何と言おうが合唱はコロナウィルスを拡大させる可能性がある」ロサンゼルス・タイムズ紙](https://mcsya.org/la-times-choir-risk/) (MCS Young Artistsによる日本語の解説と訳。6/6)
+  - CDC (アメリカ疾病予防管理センター) が歌うことは COVID-19 を拡散する可能性があるとの警告を通知なしに削除しており、それはトランプ大統領のが宗教施設を不可欠とみなしたからである。しかしそれは危険で、「超拡散イベント」を引き起こす危険性がある、という複数の専門家の意見を紹介している。
+  - 1人の感染者が団員全員と十分な時間濃厚接触したりするとは考えにくいので、空気感染しかないのではないか、というエアロゾル研究者の意見も。
