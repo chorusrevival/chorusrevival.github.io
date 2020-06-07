@@ -196,3 +196,10 @@ title: 合唱練習再開の条件について
   - 無症状者のマスク着用に関する、最近の研究結果やガイドラインの紹介。
   - 原論文等にちゃんとリンクされていますので、詳しく知りたい方はそちらも参考にしてください。
   
+- [KNMO over Coronavirus](https://www.knmo.nl/knmo-over-coronavirus/) オランダ王立音楽教会のコロナウイルスに関する記事一覧。
+  - 5/29の [De volgende stap](https://www.knmo.nl/2020/05/29/de-volgende-stap/#.XtzFGy8_ARA) (次のステップ) という記事によると、
+
+	> 中央政府の通信に不幸な事態が重なったため、2020年5月26日に文部科学省が衆議院への書簡で吹奏楽と歌唱の全面禁止を発表し、2020年5月27日にはアウトブレイク管理チームに条件付きで吹奏楽選手の活動再開の可能性を与えるという事態が発生しました。 (DeepL翻訳)
+	
+	とのこと。
+	- [European Choral Association - Europa Cantatの情報サイト](https://docs.google.com/document/u/0/d/1QHhJbirrbPWQ6CFxbj-uy_3QwjNvXlPptchFvVoLlHg/mobilebasic) に「5月末にオランダ政府はアマチュアの合唱を禁止した」とある (がリンクなし) に対応する内容か。
