@@ -203,3 +203,8 @@ title: 合唱練習再開の条件について
 	
 	とのこと。
 	- [European Choral Association - Europa Cantatの情報サイト](https://docs.google.com/document/u/0/d/1QHhJbirrbPWQ6CFxbj-uy_3QwjNvXlPptchFvVoLlHg/mobilebasic) に「5月末にオランダ政府はアマチュアの合唱を禁止した」とある (がリンクなし) に対応する内容か。
+
+- [Empfehlungen des Chorverband Österreich für die Tätigkeit der Chöre ab 29. Mai 2020](https://www.chorverband.at/images/Empfehlungen_ChVOE/Empfehlungen_ChVO_Tatigkeiten_Chore_ab_2952020_Beschluss_Prasidium.pdf) (オーストリア合唱連盟. 5/29)
+  - [國頭晋氏による日本語訳](https://www.facebook.com/groups/867907606618337/permalink/3085424051533337/) (facebook. 6/4)
+  - 最低距離1mを守れ、とのことで、他のガイドラインよりだいぶ緩い (近い) のですが、大丈夫なのでしょうか…？
+  - 換気も1時間あたり10分となっています。15分毎ぐらいに換気しろというのが多いのですが。
