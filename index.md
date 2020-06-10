@@ -35,9 +35,11 @@ title: 合唱復興ポータル (オンライン合唱・合唱練習の再開�
 	   - 「ネット上でリアルタイムにセッションができるアプリ」と称する、低遅延の音声通信ソフト NETDUETTO を用いてオンライン合唱練習をする方法についてのページです。
 	
     1. [一人多重録音](overdub-alone.html)
-	
+
     1. [みんなで多重録音](overdub.html)
 
+	   - 多重録音については結局あまりできていません。既に色々なところに情報があるので、検索するなりしてそちらを参照してください。
+	
 1. 合唱練習の再開に向けて  
 リンクを少しずつ足しています。
 
@@ -63,6 +65,12 @@ title: 合唱復興ポータル (オンライン合唱・合唱練習の再開�
 - 全日本合唱連盟が「合唱活動の再開に向けたガイドライン」を策定中とのことです！ (6/8)
   - [twitter](https://twitter.com/JCA_from1948/status/1269872726161809408)
   - [facebook](https://www.facebook.com/JCA1948/posts/3328120750532685)
+
+- [abcd publishes research paper on the impact of COVID 19 on choral activity](https://www.abcd.org.uk/news/2020/06/abcd_publishes_research_paper_on_the_impact_of_COVID19) (イギリス合唱指揮者協会 (ABCD). 6/3)
+  - 論文のPDFはこちら [Where have all the singers gone, and when will they return?Prospects for Choral Singing after the SARS-CoV-2  Pandemic](https://www.abcd.org.uk/storage/Choral_Directions_Research/Where_have_all_the_singers_gone_publication_version.pdf) 
+  - [結論部のみの PDF](https://www.abcd.org.uk/storage/Choral_leader_resources/ABCD_Where_have_all_the_singers_gone_-_conclusions.pdf)
+  - 多くの論文のレビューと、ノルウェー・スウェーデンの合唱、大聖堂オルガニスト協会の会員を対象とした調査などについての考察。
+  - 著者は ABCD の学術雑誌の編集長だが、ウイルス学者、公衆衛生登録官、宗教を専門とする人類学者によって (匿名ではなく) 査読されているとのこと。
 
 ## 連絡先
 
