@@ -214,3 +214,8 @@ title: 合唱練習再開の条件について
   - [10分以内に換気できる? 大学再開へ「スモーク実験」](https://www.asahi.com/articles/ASN654518N50OIPE004.html) (朝日新聞. 6/7)
   - [【徹底検証】実際に感染発生の飲食店に“空気のよどみ”　いま気をつけたい“換気”の方法とは（「キャッチ！」 5月29日放送より）](https://locipo.jp/article/0c01d4d6-6b7d-48d9-9702-c8b5245ef647) (中京テレビ. 5/29)
 
+- [When Will It Be Safe to Sing Together Again?](https://www.nytimes.com/2020/06/09/arts/music/choirs-singing-coronavirus-safe.html) (New York Times. 6/9)
+  - [「シールド着用に効果なし」。合唱の危険性に関するドイツ研究者の新たな知見。](https://mcsya.org/shield-meaningless-choir/) (MCS Young Artists. 6/12)
+  - エアロゾル感染について、危険性やわかっていることがまとめられています。別にフェイスシールドについて (だけ) の記事ではありません。
+  - やはり合唱はまだまだ危険性が高いとみなすべきである、という話。
+  - ただし、「リハーサルの変更は一時的なものであり、少人数で歌うことはまだ可能であることを認識すべき」とのコメントも。
