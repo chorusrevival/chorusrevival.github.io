@@ -238,3 +238,6 @@ title: 合唱練習再開の条件について
   - アナウンスは[ACDAのページ](https://acda.org/advocacy/) や [facebook](https://www.facebook.com/ACDANational/photos/a.252673968105155/3226020874103768/?type=3&theater) にも出ています。
   - [混声合唱団Tokyo Repertory Singersさんによる紹介ツイート](https://twitter.com/TYORepSingers/status/1272655752138637312) (twitter. 6/16)
   - (レビューは後で書きます…)
+
+- [科学と、合唱活動の近い将来について。アメリカ4つの合唱団体による共同提言](https://note.com/takahirofujimura/n/nf0019a479e86) (Hiro さんの note. 6/16)
+  - 5月にアメリカの4つの合唱関係団体の共催で行われたウェビナー [Webinar: Science and the near-term future of singing](https://www.barbershop.org/covid-webinar-summary) の対訳。
