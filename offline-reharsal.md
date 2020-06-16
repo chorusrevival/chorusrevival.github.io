@@ -234,7 +234,7 @@ title: 合唱練習再開の条件について
   - ニュースキャストに記事が出ています：[吹奏楽部の活動・器楽学習の再開に向けて実験を実施、動画「管楽器・教育楽器の飛沫可視化実験」を公開](https://newscast.jp/news/582544) (6/15)
   - 比較対象としてくしゃみや発声の実験も行われています。
 
-- [COVID-19RESPONSE COMMITTEE REPORTJUNE 15,2020](https://files.constantcontact.com/b4d082bd201/184c8a68-a6a3-47d5-a9e7-f3a529932f9e.pdf) (アメリカ合唱指揮者協会(ACDA). 6/15)
+- [COVID-19 RESPONSE COMMITTEE REPORT JUNE 15, 2020](https://files.constantcontact.com/b4d082bd201/184c8a68-a6a3-47d5-a9e7-f3a529932f9e.pdf) (アメリカ合唱指揮者協会 (ACDA) COVID-19 対応委員会. 6/15)
   - アナウンスは[ACDAのページ](https://acda.org/advocacy/) や [facebook](https://www.facebook.com/ACDANational/photos/a.252673968105155/3226020874103768/?type=3&theater) にも出ています。
   - [混声合唱団Tokyo Repertory Singersさんによる紹介ツイート](https://twitter.com/TYORepSingers/status/1272655752138637312) (twitter. 6/16)
   - (レビューは後で書きます…)
