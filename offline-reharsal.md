@@ -241,3 +241,8 @@ title: 合唱練習再開の条件について
 
 - [科学と、合唱活動の近い将来について。アメリカ4つの合唱団体による共同提言](https://note.com/takahirofujimura/n/nf0019a479e86) (Hiro さんの note. 6/16)
   - 5月にアメリカの4つの合唱関係団体の共催で行われたウェビナー [Webinar: Science and the near-term future of singing](https://www.barbershop.org/covid-webinar-summary) の対訳。
+  
+- [60 Chormitglieder im Berliner Dom infiziert](https://www.moz.de/nachrichten/brandenburg/artikel-ansicht/dg/0/1/1803730/) (5/19)
+  - [ベルリン大聖堂合唱団で起こった3月の集団感染のケース](https://mcsya.org/berlin-choir-cluster-case-march-2020/) (MCS Young Artistsによる日本語の解説. 6/19)
+  - 120平方メートルの大聖堂で80人が2時間半練習したら、指揮者や離れたところにいたピアニストを含め60人が感染したという話。
+  - エアロゾルを介して遠距離まで拡散したのではないかという合唱指導者の意見や、エアロゾル感染が起きる可能性があるとのロバート・コッホ研究所のホームページのコメントを紹介。
