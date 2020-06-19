@@ -72,6 +72,10 @@ title: 合唱復興ポータル (オンライン合唱・合唱練習の再開�
   - 多くの論文のレビューと、ノルウェー・スウェーデンの合唱、大聖堂オルガニスト協会の会員を対象とした調査などについての考察。
   - 著者は ABCD の学術雑誌の編集長だが、ウイルス学者、公衆衛生登録官、宗教を専門とする人類学者によって (匿名ではなく) 査読されているとのこと。
 
+- [【まとめ】合唱とコロナに関する当ブログの投稿一覧](https://mcsya.org/list-corona-and-choir/) (MCS Young Artists)
+  - 様々な海外の記事を紹介してくださっていて、当ポータルからも沢山リンクさせていただいているMCS Young Artistsさんのコロナ関係の記事一覧。
+
+
 ## 連絡先
 
 管理人：[稲生 啓行](https://www.math.kyoto-u.ac.jp/~inou/) twitter: [@chorusrevival](https://twitter.com/chorusrevival) ([混声合唱団CADENZA](http://web.kyoto-inet.or.jp/people/tomo0726/cadenza/)指揮者、[アンサンブルアカデミー京都](http://academy-kyoto.music.coocan.jp/)ベースパートリーダー)
