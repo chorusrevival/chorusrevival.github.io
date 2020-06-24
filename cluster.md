@@ -22,7 +22,7 @@ title: クラスター化 (集団感染) について
 	- [合唱練習再開の条件について](offline-reharsal.html) からリンクしている [合唱は安全か？アメリカの感染症専門家の意見](https://mcsya.org/singing-together-safe-or-not/) (山根悟郎氏のブログ) では「まったくの間違い」とのコメントを紹介している。
 
 - [Über 100 Covid-19-Infektionen in Baptisten-Gemeinde Gottesdienst-Besucher sangen und trugen keine Schutzmasken](https://www.hessenschau.de/gesellschaft/ueber-100-covid-19-infektionen-gottesdienst-besucher-sangen-und-trugen-keine-schutzmasken,corona-ausbruch-baptisten-reaktion-gemeinde-100.html) (hessenschau. 5/26)
-  - [記事に関する矢崎裕一氏のツイート] (twitter. 5/26)
+  - [記事に関する矢崎裕一氏のツイート](https://twitter.com/luigiyazaki/status/1265209950248349696) (twitter. 5/26)
   - フランクフルトの教会礼拝での100人以上のクラスター感染について。
   - 1.5mの距離は保っていたが、マスクを着用せずに歌っていたとのこと。
   - 当時ヘッセン州ではマスク着用・歌唱禁止などは課されていなかった。
