@@ -280,4 +280,8 @@ title: 合唱練習再開の条件について
 	- 屋内で活動する場合は常時換気。無理なら30分に1回5分程度の換気。
 	- 3段階に分かれていて、パート練習やアンサンブル→セクションでの活動など→全体での合奏と徐々に移行
 	
-	
+- [Persistence of Severe Acute Respiratory Syndrome Coronavirus 2 in Aerosol Suspensions](https://wwwnc.cdc.gov/eid/article/26/9/20-1806_article) (EID Journal. 6/22)
+  - [坂本史衣さんによる解説](https://twitter.com/SakamotoFumie/status/1276453484045295616) (twitter. 6/26)
+  - 新型コロナウイルスをエアロゾル化したところ、最大16時間感染性を保持したとのこと。
+  - SARSやMERSよりも長時間。
+  - 坂本さんによれば、「あくまでも一つの実験で16時間なのでこの数字にこだわりすぎない方が良いと思います」とのこと。
