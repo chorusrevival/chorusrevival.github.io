@@ -10,6 +10,8 @@ title: 合唱復興ポータル (オンライン合唱・合唱練習の再開�
  
  twitter: [@chorusrevival](https://twitter.com/chorusrevival)
 
+<span style="color:red">全日本合唱連盟から[合唱活動における新型コロナウイルス感染症拡大予防のガイドライン](https://jcanet.or.jp/news/COVID-19.htm)が発表されました! (6/29)
+
 - 混声合唱団CADENZAによる呼び掛け
   - [【歌を再開するために必要な科学的根拠のある要件を明らかにしよう】](https://www.facebook.com/corocadenzakyotojp/posts/3119018861490717) (Facebook)
 
@@ -45,7 +47,7 @@ title: 合唱復興ポータル (オンライン合唱・合唱練習の再開�
 
     1. [クラスター化 (集団感染) について](cluster.html) (最終更新：5/30)
 
-    1. [合唱練習再開の条件について](offline-reharsal.html) (最終更新：6/27)
+    1. [合唱練習再開の条件について](offline-reharsal.html) (最終更新：6/29)
 
 ## リンク集
 
@@ -65,7 +67,8 @@ title: 合唱復興ポータル (オンライン合唱・合唱練習の再開�
 - 全日本合唱連盟が「合唱活動の再開に向けたガイドライン」を策定中とのことです！ (6/8)
   - [twitter](https://twitter.com/JCA_from1948/status/1269872726161809408)
   - [facebook](https://www.facebook.com/JCA1948/posts/3328120750532685)
-
+  - 発表されました！[合唱活動における新型コロナウイルス感染症拡大予防のガイドライン](https://jcanet.or.jp/news/COVID-19.htm) (6/29)
+  
 - [abcd publishes research paper on the impact of COVID 19 on choral activity](https://www.abcd.org.uk/news/2020/06/abcd_publishes_research_paper_on_the_impact_of_COVID19) (イギリス合唱指揮者協会 (ABCD). 6/3)
   - 論文のPDFはこちら [Where have all the singers gone, and when will they return?Prospects for Choral Singing after the SARS-CoV-2  Pandemic](https://www.abcd.org.uk/storage/Choral_Directions_Research/Where_have_all_the_singers_gone_publication_version.pdf) 
   - [結論部のみの PDF](https://www.abcd.org.uk/storage/Choral_leader_resources/ABCD_Where_have_all_the_singers_gone_-_conclusions.pdf)

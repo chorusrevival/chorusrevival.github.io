@@ -293,3 +293,16 @@ title: 合唱練習再開の条件について
 
 - [Withコロナ環境での合唱練習のリスクを計算してみた](https://note.com/takahirofujimura/n/nd6ee83b6a56e) (Hiroさんのnote. 6/26)
   - 東京都の100人規模の合唱団の練習に感染者がいる可能性がどれぐらいあるか、というおおまかな評価。
+
+- [Reducing transmission of SARS-CoV-2](https://science.sciencemag.org/content/368/6498/1422.full) (Science. 6/26)
+  - [@AirborneKanki さんによる日本語訳](https://sumatome.com/su/1277506411249889281) (すまとめによるツイートのまとめ. 6/29)
+  - エアロゾル感染と、マスクによるそのリスク低減について。
+  
+- [COVID-19: Guidance for the safe use of places of worship from 4 July](https://www.gov.uk/government/publications/covid-19-guidance-for-the-safe-use-of-places-of-worship-from-4-july/covid-19-guidance-for-the-safe-use-of-places-of-worship-from-4-july) (イギリス政府. 6/29)
+  - 礼拝所の安全利用のためのガイダンス (7/4から)。
+  - 歌に関係するところしか見ていませんが、だいぶ厳しい内容に見えます。例えば：
+	- 通常の会話が困難になる程大きな声や音を出すことは避けろとのこと。
+	- 距離が離れていたり、顔を覆っていても、集団で歌ったり唱えたりするべきではない
+	- 不可欠な場合は一人だけが歌ったり唱えたりすることが許されるべき。アクリル板の使用を検討すべき。
+  - などとなっています。
+  
