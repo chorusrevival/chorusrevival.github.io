@@ -306,3 +306,12 @@ title: 合唱練習再開の条件について
 	- 不可欠な場合は一人だけが歌ったり唱えたりすることが許されるべき。アクリル板の使用を検討すべき。
   - などとなっています。
   
+- [Entwarnung klingt anders](https://www.br-klassik.de/aktuell/news-kritik/chor-corona-chorstudie-singen-infektionsgefahr-br-muenchen-erlangen-100.html) (BR-Klassik. 7/3)
+  - [本山秀毅氏のfacebookに掲載された日本語訳](https://www.facebook.com/permalink.php?story_fbid=3101255793286102&id=100002051359009) (7/4)
+  - [バイエルン放送、歌唱とエアロゾルに関する最新の研究結果を公表](https://mcsya.org/br-research-latest/) (MCS Young Artistsによる解説. 7/5)
+  - 実験の様子などが収められた9分の動画は一見の価値あり (ただし解説はドイツ語)。
+  - 子音では沢山飛沫が飛んでいるが、母音でははるかに少ない。
+  - エアロゾルはマスクでも防げない。前に2〜2.5m、横に1.5mの距離を取るべき。換気が悪いところではもっと広さと距離が必要。
+
+- [特設ページ：コロナ禍における合唱活動を考える ­ 公衆衛生学の見地から ～私たちはいったいいつになったら歌えるのか？](https://choruscompany.com/200613yujin/) (コーラスカンパニー. 7/2?)
+  - 6/13に開催されたセミナーのスライドと質問回答書が公開されています。
