@@ -337,3 +337,7 @@ Author links open overlay panel](https://www.sciencedirect.com/science/article/p
 - [マスクごとのエアロゾル吸引状況の可視化評価（COVID-19対策）](https://www.youtube.com/watch?v=kllyQ_pj0l4) (カトウ光研株式会社. 5/12)
   - 感染から自分を守るためのマスクの効果についての検証のように見えます。この点ではマスクはあまり意味がないと言われているので、あまり参考にならないのかもしれません。
   - とはいえ、ポリウレタンマスクが沢山透過しているのはやはり気になりますね。
+- [Why a face shield alone may not protect you from coronavirus](https://www.bbc.com/future/article/20200806-are-face-shields-effective-against-covid-19) (BBC Future. 8/7)
+  - フェイスシールドだけでは大きな飛沫しか防げないという話。
+  - [フェイスシールドの効果について](https://mcsya.org/face-shield-without-mask/) (MCS Young Artists による解説. 8/12)
+
