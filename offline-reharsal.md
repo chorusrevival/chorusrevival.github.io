@@ -320,3 +320,20 @@ title: 合唱練習再開の条件について
 
 - [東京都内の小劇場における新型コロナウイルス感染症対策ガイドラインについて (2020年6月25日改定)](http://jipta.jp/?p=1) (小劇場協議会. 6/25)
 
+- [Low-cost measurement of facemask efficacy for filtering expelled droplets during speech](https://advances.sciencemag.org/content/early/2020/08/07/sciadv.abd3083) (Science Advances. 8/7)
+  - マスクの飛沫拡散防止についての論文。(読めていませんが) タイトルによると低コストで測定できる、というところが売りなのでしょうか。
+  - [Hiroshi Tsuji 氏による解説](https://twitter.com/Hiroshi_Tsuji/status/1293110534720520192) (Twitter. 8/11)
+  - [Scientists tested 14 types of masks: Here's what worked and what didn't](https://abcnews.go.com/GMA/Wellness/scientists-tested-14-types-masks-worked/story?id=72285844) (ABC News. 8/11)
+  - [Wearing a neck gaiter may be worse than no mask at all, researchers find](https://www.washingtonpost.com/lifestyle/wellness/mask-test-duke-covid/2020/08/10/4f2bb888-db18-11ea-b205-ff838e15a9a6_story.html) (Washington Post. 8/11)
+  - [新型コロナの感染予防、どの素材のマスクが最適？　布マスクやバンダナの効果は](https://news.yahoo.co.jp/byline/horimukaikenta/20200813-00193086/) (Yahoo!ニュース。8/13)
+	- 堀向健太氏による解説。
+- [‘A Smoking Gun’: Infectious Coronavirus Retrieved From Hospital Air](https://www.nytimes.com/2020/08/11/health/coronavirus-aerosols-indoors.html) (New York Times. 8/11)
+  - エアロゾル中からウイルスを生きたまま採取する話。
+  - [Viable SARS-CoV-2 in the air of a hospital room with COVID-19 patients](https://www.medrxiv.org/content/10.1101/2020.08.03.20167395v1) (medRxiv. 8/4)
+    - 記事の元になったプレプリント。査読前のものなので注意。
+- [Medical mask versus cotton mask for preventing respiratory droplet transmission in micro environments
+Author links open overlay panel](https://www.sciencedirect.com/science/article/pii/S0048969720330278) (Science of The Total Environment)
+  - 綿マスクの飛沫拡散防止効果について、医療用マスクと有意な差は認められなかったとのこと。
+- [マスクごとのエアロゾル吸引状況の可視化評価（COVID-19対策）](https://www.youtube.com/watch?v=kllyQ_pj0l4) (カトウ光研株式会社. 5/12)
+  - 感染から自分を守るためのマスクの効果についての検証のように見えます。この点ではマスクはあまり意味がないと言われているので、あまり参考にならないのかもしれません。
+  - とはいえ、ポリウレタンマスクが沢山透過しているのはやはり気になりますね。
