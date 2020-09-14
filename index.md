@@ -85,6 +85,7 @@ title: 合唱復興ポータル (オンライン合唱・合唱練習の再開�
   - [【合唱用マスク】１　タオルハンカチで簡単に作れました！苦しくないし歌いやすい！ ](https://sonna-kanji.com/archives/16161) 
   - [【コロナウイルス対策】合唱用にマスクとフェイスシールドを改良してみました！ ](https://sonna-kanji.com/archives/16215)
   - [【合唱用マスク】改良版３　ワイヤーを改良して更に息が楽になりました！ ](https://sonna-kanji.com/archives/16258)
+- [コーラスマスク](http://www.editionkawai.jp/blog/chorus/mask.html) (カワイ出版) 11月下旬発売だそうです (参考：[twitter](https://twitter.com/editionkawai/status/1305348410745057281))。
 
 ## リンク集
 
