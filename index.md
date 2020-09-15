@@ -115,6 +115,8 @@ title: 合唱復興ポータル (オンライン合唱・合唱練習の再開�
 
 - [【まとめ】合唱とコロナに関する当ブログの投稿一覧](https://mcsya.org/list-corona-and-choir/) (MCS Young Artists)
   - 様々な海外の記事を紹介してくださっていて、当ポータルからも沢山リンクさせていただいているMCS Young Artistsさんのコロナ関係の記事一覧。
+- [演劇人のための実践的な感染症対策と、危機管理のための勉強会](https://www.youtube.com/watch?v=0Q8pFxxF3fg&t=1s) (Theatre Company shelf.
+Youtube Live 8/19)
 
 ## 連絡先
 
