@@ -30,3 +30,9 @@ title: クラスター化 (集団感染) について
 - [Parallelen zwischen Massen-Ausbrüchen](https://www.faz.net/aktuell/politik/inland/corona-ausbruch-parallelen-zwischen-frankfurt-und-bremerhaven-16791843.html) (Frankfurter Allgemeine. 5/29)
   - [矢崎裕一氏による紹介ツイート](https://twitter.com/luigiyazaki/status/1266376509310156802) (twitter. 5/29)
   - ブレーマーハーフェンの教会で44人が集団感染。
+- [Wiener Staatsoper Threatened by COVID-19](https://operawire.com/wiener-staatsoper-threatened-by-covid-19/) (OperaWire. 9/15)
+  - ウィーンの小さな劇場で「メリー・ウィドウ」の公演があり、46人が感染。
+  - [ウィーン市立音大の「メリー・ウィドウ」でクラスター](https://mcsya.org/vienna-cluster-merry-widow/) (MCS Young Artists. 9/16)
+  - [Erklärung des TAG zu Corona-Fällen rund um eine Veranstaltung der MUK-Universität](https://www.dastag.at/erklaerung-tag) (TAG. 9/15)
+	- 劇場による声明。リハーサル中の感染であり、公演中の感染は考えられないとのこと。
+  
