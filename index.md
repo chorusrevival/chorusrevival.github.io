@@ -118,6 +118,8 @@ title: 合唱復興ポータル (オンライン合唱・合唱練習の再開�
 - [演劇人のための実践的な感染症対策と、危機管理のための勉強会](https://www.youtube.com/watch?v=0Q8pFxxF3fg&t=1s) (Theatre Company shelf.
 Youtube Live 8/19)
 
+- [新型コロナウイルス感染対策としての空調設備を中心とした設備の運用について（改訂二版)](http://www.shasej.org/recommendation/covid-19/2020.09.07%20covid19%20kaitei.pdf) (空気調和・衛生工学会. 9/7. PDF)
+
 ## 連絡先
 
 管理人：[稲生 啓行](https://www.math.kyoto-u.ac.jp/~inou/) twitter: [@chorusrevival](https://twitter.com/chorusrevival) ([混声合唱団CADENZA](http://web.kyoto-inet.or.jp/people/tomo0726/cadenza/)指揮者、[アンサンブルアカデミー京都](http://academy-kyoto.music.coocan.jp/)ベースパートリーダー)
